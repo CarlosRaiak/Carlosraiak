@@ -19,31 +19,36 @@ Profissional de TI em transição para a área de desenvolvimento de software, c
 
 Busco aplicar meus conhecimentos em programação na construção de aplicações, APIs e soluções web, sempre buscando escrever código organizado, aprender boas práticas e evoluir continuamente como desenvolvedor.
 </div>
+## 🚀 Tecnologias
 
-<h2>🚀 Tecnologias</h2>
-<h3>Desenvolvimento</h3>
-<h3>JavaScript</h3>
+### Desenvolvimento
+
+- JavaScript
+- Node.js
+- React
+- HTML5
+- CSS3
+
+### Banco de Dados
+
+- MySQL
+
+### Ferramentas e conhecimentos
+
+- Git
+- GitHub
+- APIs REST
+- VS Code
+- Windows
+- Active Directory
+- ServiceNow
+- Redes e infraestrutura de TI
+
+### 📚 Atualmente estudando
+
+<p>JavaScript</p>
 <h3>Node.js</h3>
 <h3>React</h3>
-<h3>HTML5</h3>
-<h3>CSS3</h3>
-<h1>Banco de Dados</h1>
-<h3>MySQL</h3>
-<h2>Ferramentas e conhecimentos</h2>
-<h3>Git</h3>
-<h3>GitHub</h3>
-<h3>APIs REST</h3>
-<h3>VS Code</h3>
-<h3>Windows</h3>
-<h3>Active Directory</h3>
-<h3>Redes e infraestrutura de TI</h3>
-<h2>📚 Atualmente estudando</h2>
-<h3>JavaScript</h3>
-
-<h3>Node.js</h3>
-
-<h3>React</h3>
-
 <h3>APIs REST</h3>
 <h3>Desenvolvimento Full Stack
 <h3>Banco de dados</h3>
