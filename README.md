@@ -1,9 +1,9 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
 
-<h1>Olá, eu sou o Carlos 👋</h1>
+<h1>Olá, eu sou o Carlos </h1>
         
-<h3>Desenvolvedor Júnior · JavaScript · Node.js · React · MySQL 👋</h3>
+<h3>Desenvolvedor Júnior · JavaScript · Node.js · React · MySQL </h3>
 
 
 <H2>🧑‍💻 Sobre mim</H2>
