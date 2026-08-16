@@ -33,7 +33,7 @@ Busco aplicar meus conhecimentos em programação na construção de aplicaçõe
 
 - MySQL
 
-### 📚 Atualmente estudando
+###  Atualmente estudando
 
 <p>JavaScript</p>
 <h3>Node.js</h3>
