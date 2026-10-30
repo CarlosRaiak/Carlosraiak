@@ -3,7 +3,7 @@
 
 <h1>Olá, eu sou o Carlos </h1>
         
-<h3>Desenvolvedor Júnior · JavaScript · Node.js · React · MySQL </h3>
+<h3>Desenvolvedor full stack junior | JavaScript | Node.js | React | MySQL </h3>
 
 
 <H2>Sobre mim</H2>
