@@ -7,7 +7,7 @@
 
 
 <H2>Sobre mim</H2>
-Profissional de TI em transição para a área de desenvolvimento de software, com experiência em suporte técnico e infraestrutura de TI.
+Profissional de TI com experiência em suporte técnico e infraestrutura, em transição de carreira para Desenvolvimento Full Stack. Formação em Análise e Desenvolvimento de Sistemas e pós-graduação em Engenharia de Software em andamento. Conhecimentos em desenvolvimento web, JavaScript, Angular, banco de dados MySQL e desenvolvimento de aplicações mobile, aliados à experiência em ambientes corporativos e resolução de problemas.
 
 Busco aplicar meus conhecimentos em programação na construção de aplicações, APIs e soluções web, sempre buscando escrever código organizado, aprender boas práticas e evoluir continuamente como desenvolvedor.
 <P> Em desenvolvimento profissional na área de programação e desenvolvimento de software</P>
